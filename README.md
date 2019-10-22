@@ -1,2 +1,2 @@
 # POPBAMTools
-Redirect to github.com/genevalab
+POPBAMTools has moved. The current version is located at github.com/genevalab/POPBAMTools
